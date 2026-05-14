@@ -38,8 +38,7 @@ python hotel_system.py
 ```
 
 ---
-
-
+https://docs.google.com/videos/d/1EbKRZwo7CzHwCn6thT9ll-yrQRI-R4hYmTIAp2RR_uY/edit?usp=sharing
 
 ## 👩‍💻 Author
 
