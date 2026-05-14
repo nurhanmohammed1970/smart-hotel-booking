@@ -39,18 +39,7 @@ python hotel_system.py
 
 ---
 
-## 📂 Project Structure
 
-* `hotel_system.py` → Main program file
-* `README.md` → Project documentation
-
----
-
-## 🎥 Demo Video
-
-(Add your video link here after recording)
-
----
 
 ## 👩‍💻 Author
 
